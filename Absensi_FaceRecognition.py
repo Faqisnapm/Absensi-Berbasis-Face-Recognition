@@ -1,3 +1,6 @@
+# Dibuat oleh Faqisna Putra Mardhatillah
+# Sebagai tugas kuliah pada Mata Kuliah Praktikum Algoritma dan Pemrograman II
+
 import face_recognition
 import cv2
 import numpy as np
